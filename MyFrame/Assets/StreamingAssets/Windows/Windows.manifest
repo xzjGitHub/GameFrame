@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 963194009
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenesone/new folder.ld
+      Dependencies: {}
+    Info_1:
+      Name: scenesone.ld
+      Dependencies: {}
+    Info_2:
+      Name: scenestwo/test.ld
+      Dependencies:
+        Dependency_0: scenesone/mat.ld
+    Info_3:
+      Name: scenesone/mat.ld
+      Dependencies: {}
+    Info_4:
+      Name: scenestwo.ld
+      Dependencies: {}
